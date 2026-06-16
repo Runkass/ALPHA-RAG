@@ -1,0 +1,15 @@
+.env
+.hf_cache/
+artifacts/
+data/cache/
+submission.csv
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.cursor/
+agent/
+STATE.md
+AGENTS.md
+*.plan.md
+*Key.txt
