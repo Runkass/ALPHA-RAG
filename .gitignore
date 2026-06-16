@@ -13,3 +13,9 @@ STATE.md
 AGENTS.md
 *.plan.md
 *Key.txt
+materials/
+archive/
+data/
+0Misc/
+.env.example
+От*.md
